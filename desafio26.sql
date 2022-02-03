@@ -1,0 +1,1 @@
+DELETE FROM northwind.purchase_orders WHERE order_details > 10.0000;
